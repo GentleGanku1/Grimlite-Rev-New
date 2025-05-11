@@ -1,10 +1,9 @@
 # Grimlite Rev
 A revisioned version of Grimlite, an AQW Bot Client. <br /> <br />
-Support the project by donating here: https://paypal.me/GentleGanku <br />
-Contact through Discord: .Gentle G#2681
+
 # Latest Version
 The latest version as of now is the Grimlite Rev v1.3.4 (14072022): https://github.com/GentleGanku1/Grimlite-Rev-New/releases/tag/latest <br /> <br />
-See the rest of the versions here: https://github.com/GentleGanku/GrimliteRev/releases
+See the rest of the versions here: https://github.com/GentleGanku1/Grimlite-Rev-New/releases/tag/latest
 # Updates
 As of 14th July (2022), there are no more development updates for Grimlite Rev and its official support has been dropped since then. 
 # How to Use:
